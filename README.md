@@ -52,7 +52,7 @@ English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation
 **Tools** 
 * XML - Good
 * UML/OOP Design Patterns - Good
-* Version Control (**Git**, Subversion, Mercurial) - Good
+* Version Control (Git, Subversion, Mercurial) - Good
 * Used Tools (Eclipse, NetBeans, Wicket, JSP, SQLite, javadoc)
 
 **Operating Systems**
