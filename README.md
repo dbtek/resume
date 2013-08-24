@@ -11,22 +11,22 @@
 **Marital Status :**	Single
 **Working Status :**	Unemployed
 **Military Service :**	Not Done (Postponed)
-Date of Birth :	01.01.1989
-Birth Place :		ANTALYA
-Driving License :	B (2007)
-Nationality :		Turkey
-Smoking:		Non-smoker
+**Date of Birth :**	01.01.1989
+**Birth Place :**		ANTALYA
+**Driving License :**	B (2007)
+**Nationality :**		Turkey
+**Smoking:**		Non-smoker
 
-Education:
+###Education:###
 
-University		Istanbul Technical University - (Regular hours Education)
-09.2007 – 06.2012 - Computer and Informatics Faculty, Computer Engineering - Turkish
+**University:**		Istanbul Technical University - (Regular hours Education)
+>09.2007 – 06.2012 - Computer and Informatics Faculty, Computer Engineering - Turkish
 
-High School
+###High School###
 
 06.2007		Antalya A. Atilla Konuk Anatolian High School 4,88 / 5
 
-Foreign Languages
+###Foreign Languages###
 
 » English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation
 
