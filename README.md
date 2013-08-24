@@ -74,10 +74,10 @@ English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation
 ###Projects###
 
 **Online Printing Order Management Application [Ongoing Development]**
-* (Tools: PHP, Codigniter (MVC Fw),  Smarty (Template Engine), MySQL, Javascript, JQuery, Twitter Bootstrap) - July 2013  
+>(Tools: PHP, Codigniter (MVC Fw),  Smarty (Template Engine), MySQL, Javascript, JQuery, Twitter Bootstrap) - July 2013  
 
 **Self Service Restaurant Ticket Management System**
-* (Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap) - May 2013  
+>(Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap) - May 2013  
 
 **Online Mobile Web Application Development (Without coding knowledge)** – appself.tk
 * (Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap, jqmPHP, HTML5, Zend) - February 2013  
