@@ -72,6 +72,8 @@ English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation
 >Empatik.net 05.07.2010 - 13.08.2010(200 Hours)
 
 ###Projects###
+**Strapize - [Ongoing Development]** - strapize.com
+>Bootstrap customization. Lets users create elegant, sleek, personal Bootstrap designs.
 
 **Online Printing Order Management Application [Ongoing Development]**
 >(Tools: PHP, Codigniter (MVC Fw),  Smarty (Template Engine), MySQL, Javascript, JQuery, Twitter Bootstrap) - July 2013  
