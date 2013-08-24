@@ -1,6 +1,6 @@
 İsmail DEMİRBİLEK
 ==============
-![image](../img.jpg)  
+![image](../../blob/master/image.jpg)  
 
 >E-mail:  demirbilek.ismail@gmail.com  	
 >Web:	 www.ismaildemirbilek.com  
