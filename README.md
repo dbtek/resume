@@ -22,7 +22,7 @@
 **University:**		Istanbul Technical University - (Regular hours Education)  
 >09.2007 – 06.2012 - Computer and Informatics Faculty, Computer Engineering - Turkish  
   
-###High School###
+**High School**  
 06.2007		Antalya A. Atilla Konuk Anatolian High School 4,88 / 5  
   
 ###Foreign Languages###
