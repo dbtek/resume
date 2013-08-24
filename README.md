@@ -72,7 +72,7 @@ English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation
 >Empatik.net 05.07.2010 - 13.08.2010(200 Hours)
 
 ###Projects###
-**Strapize - [Ongoing Development]** - strapize.com
+**Strapize - [Ongoing Development]** - http://strapize.com
 >Bootstrap customization. Lets users create elegant, sleek, personal Bootstrap designs.
 
 **Online Printing Order Management Application [Ongoing Development]**
@@ -81,7 +81,7 @@ English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation
 **Self Service Restaurant Ticket Management System**
 >(Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap) - May 2013  
 
-**Online Mobile Web Application Development (Without coding knowledge)** – appself.tk
+**Online Mobile Web Application Development (Without coding knowledge)** – http://appself.tk
 >(Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap, jqmPHP, HTML5, Zend) - February 2013  
 
 **Online Email Invitation – Campaign Site**
