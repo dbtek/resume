@@ -67,8 +67,8 @@
 > Oracle Partner Academy: Linkplus - 09.08.2011 - 28.08.2011 (126Hours)
 
 **StajOkulu**
-* (Veritabanı Uzmanlığı, Web Uygulamalarına Yönelik Saldırılar, Oracle Veritabanı Yönetim Sistemi, Hackerlar ve Saldırı Teknikleri, Mühendislikte Proje Yönetimi, Excel ile gelişmiş MIS uygulamaları, AğSistemleri, Google Web Araçları, Nasıl hızlı yazılım geliştirilir?, Arama motoru optimizasyonu, Bilişim Suçları ve Takibi, C# ile Proje Geliştirmek, PHP ile Proje Geliştirme)
-> Empatik.net 05.07.2010 - 13.08.2010(200 Hours)
+* (Veritabanı Uzmanlığı, Web Uygulamalarına Yönelik Saldırılar, Oracle Veritabanı Yönetim Sistemi, Hackerlar ve Saldırı Teknikleri, Mühendislikte Proje Yönetimi, Excel ile gelişmiş MIS uygulamaları, AğSistemleri, Google Web Araçları, Nasıl hızlı yazılım geliştirilir?, Arama motoru optimizasyonu, Bilişim Suçları ve Takibi, C# ile Proje Geliştirmek, PHP ile Proje Geliştirme)  
+** > Empatik.net 05.07.2010 - 13.08.2010(200 Hours)
 
 ###Projects###
 
