@@ -1,15 +1,10 @@
-resume
-======
-
-Resume file created with Markdown markup.
-
 İsmail DEMİRBİLEK
 ==============
 
-E-mail:  demirbilek.ismail@gmail.com	
-Web:	 www.ismaildemirbilek.com
-GSM:     90 507 257 59 53
-Address: Bağlar Mh. Metin Sk. Güneşli Evleri D Blok No: 29
+>E-mail:  demirbilek.ismail@gmail.com	
+>Web:	 www.ismaildemirbilek.com
+>GSM:     90 507 257 59 53
+>Address: Bağlar Mh. Metin Sk. Güneşli Evleri D Blok No: 29
 		 34207 Güneşli – İstanbul
 		 
 **Education :**			University (Graduate)
