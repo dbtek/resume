@@ -1,42 +1,38 @@
 İsmail DEMİRBİLEK
 ==============
 
->E-mail:  demirbilek.ismail@gmail.com	
->Web:	 www.ismaildemirbilek.com
->GSM:     90 507 257 59 53
->Address: Bağlar Mh. Metin Sk. Güneşli Evleri D Blok No: 29
-		 34207 Güneşli – İstanbul
+>E-mail:  demirbilek.ismail@gmail.com  	
+>Web:	 www.ismaildemirbilek.com  
+>GSM:     90 507 257 59 53  
+>Address: Bağlar Mh. Metin Sk. Güneşli Evleri D Blok No: 29  
+		 34207 Güneşli – İstanbul  
 		 
-**Education :**			University (Graduate)
-**Marital Status :**	Single
-**Working Status :**	Unemployed
-**Military Service :**	Not Done (Postponed)
-**Date of Birth :**	01.01.1989
-**Birth Place :**		ANTALYA
-**Driving License :**	B (2007)
-**Nationality :**		Turkey
-**Smoking:**		Non-smoker
+**Education :**			University (Graduate)  
+**Marital Status :**	Single  
+**Working Status :**	Unemployed  
+**Military Service :**	Not Done (Postponed)  
+**Date of Birth :**	01.01.1989  
+**Birth Place :**	ANTALYA  
+**Driving License :**	B (2007)  
+**Nationality :**	Turkey  
+**Smoking:**		Non-smoker  
 
 ###Education:###
-
-**University:**		Istanbul Technical University - (Regular hours Education)
->09.2007 – 06.2012 - Computer and Informatics Faculty, Computer Engineering - Turkish
-
+**University:**		Istanbul Technical University - (Regular hours Education)  
+>09.2007 – 06.2012 - Computer and Informatics Faculty, Computer Engineering - Turkish  
+  
 ###High School###
+06.2007		Antalya A. Atilla Konuk Anatolian High School 4,88 / 5  
+  
+###Foreign Languages###  
+» English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation  
 
-06.2007		Antalya A. Atilla Konuk Anatolian High School 4,88 / 5
-
-###Foreign Languages###
-
-» English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation
-
-Qualifications
-
-» Programming
-Java Good
-C Good
-C++ Good
-OOP Good
+Qualifications  
+» Programming  
+* Java Good  
+* C Good  
+* C++ Good  
+* OOP Good  
 
 » Web Programming
 HTML5 / CSS3 / Javascript / Jquery Good
