@@ -72,33 +72,33 @@
 
 ###Projects###
 
-**Online Printing Order Management Application [Ongoing Development]**
+*Online Printing Order Management Application [Ongoing Development]*
 > (Tools: PHP, Codigniter (MVC Fw),  Smarty (Template Engine), MySQL, Javascript, JQuery, Twitter Bootstrap) - July 2013
-- **Self Service Restaurant Ticket Management System**
+*Self Service Restaurant Ticket Management System*
 > (Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap) - May 2013
-- **Online Mobile Web Application Development (Without coding knowledge)** – appself.tk
+* Online Mobile Web Application Development (Without coding knowledge) – appself.tk
 > (Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap, jqmPHP, HTML5, Zend) - February 2013
-- **Online Email Invitation – Campaign Site**
+* Online Email Invitation – Campaign Site
 > (Tools: PHP, MySQL, Javascript, JQuery UI, OpenInviter – Mindfunction Internship) - August 2011
-- ** Daily Deals Site Development**
+* Daily Deals Site Development
 > (Tools: PHP, MySQL, Javascript, Open Source NDotDeals Script)
-- ** Web Service Project**
+* Web Service Project
 > (Tools: Java, Swing, Netbeans, Web Service)
-- ** Online Banking Services**
+* Online Banking Services
 > (Tools: Java/Wicket/SQLite – Database Management Systems Course Project)
 
 ###Certificates###
 
-- ** 1st İstanbul IT Informative Explosions Seminars**
+* 1st İstanbul IT Informative Explosions Seminars
 > Boğaziçi University and Sanalkurs.net - 22.11.2009
 
-- ** ITU HumanResources Summit Meeting**
+* ITU HumanResources Summit Meeting
 > ITU IIKM - 26.02.2010
 
-- ** Business Intelligence Seminar**
+* Business Intelligence Seminar
 > Bilginç IT Academy - 06.05.2009
 
-- ** 2nd İstanbul IT Informative Explosions Seminars**
+* 2nd İstanbul IT Informative Explosions Seminars
 > İstanbul Technical University and Sanalkurs.net - 22.05.2009
 
 ###Club/Association Memberships###
