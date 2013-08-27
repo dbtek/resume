@@ -3,7 +3,7 @@
 ![image](../../blob/master/image.jpg?raw=true)  
 
 >E-mail:  demirbilek.ismail@gmail.com  	
->Web:	 www.ismaildemirbilek.com  
+>Web:	  ismaildemirbilek.com  
 >GSM:     90 507 257 59 53  
 >Address: Bağlar Mh. Metin Sk. Güneşli Evleri D Blok No: 29  
 		 34207 Güneşli – İstanbul  
