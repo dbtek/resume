@@ -1,4 +1,4 @@
-İsmail DEMİRBİLEK
+İsmail Demirbilek
 ==============
 ![image](../../blob/master/image.jpg?raw=true)  
 
@@ -81,7 +81,7 @@ English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation
 **Self Service Restaurant Ticket Management System**
 >(Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap) - May 2013  
 
-**Online Mobile Web Application Development (Without coding knowledge)** – http://appself.tk
+**Online Mobile Web Application Development (Without coding knowledge) [Ongoing Development]** – http://appself.tk
 >(Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap, jqmPHP, HTML5, Zend) - February 2013  
 
 **Online Email Invitation – Campaign Site**
