@@ -122,3 +122,7 @@ English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation
 * Cooking
 * Simple GPIO & Electronics Programming (Currently using Raspberry PI)
 * Karting
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/resume/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
