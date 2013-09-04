@@ -57,7 +57,7 @@ English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation
 * Used Tools (Eclipse, NetBeans, Wicket, JSP, SQLite, javadoc)
 
 **Operating Systems**
-* Linux (Ubuntu) - Expert
+* Linux (Debian, Ubuntu) - Expert
 * Windows - Expert
 * Mac OS - Intermediate
 
