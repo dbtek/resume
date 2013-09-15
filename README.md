@@ -33,7 +33,7 @@
 06.2007		Antalya A. Atilla Konuk Anatolian High School 4,88 / 5  
   
 ###Foreign Languages###
-English [ Reading:9/10 Writing:9/10 Speaking:8/10 ] Learnt at: İTÜ Preparation  
+- English  
 
 ###Qualifications###
 **Programming**  
