@@ -129,6 +129,7 @@
 * Cooking
 * Simple GPIO & Electronics Programming (Currently using Raspberry PI)
 * Karting
+* Dive into GitHub
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/resume/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
