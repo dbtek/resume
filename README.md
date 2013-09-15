@@ -19,11 +19,11 @@
 **Smoking:**		Non-smoker  
 
 ###Experience###
-- Freelance Web Developer | localhost (Current)
-- Quality Assurance Professional | Turkcell, Application Operations (June 2012 - Sept. 2012)
-- Web Developer | Istanbul Technical University - Chancery (2011 - 2012)
-- Software Developer | One World Istanbul Language Academy (2011 - 2012)
-- Software Developer | MindFunction (May. 2011 - October 2011)
+- Freelance Web Developer | **localhost** (Current)
+- Quality Assurance Professional | **Turkcell**, Application Operations (June 2012 - Sept. 2012)
+- Web Developer | **Istanbul Technical University** - Chancery (2011 - 2012)
+- Software Developer | **One World Istanbul Language Academy** (2011 - 2012)
+- Software Developer | **MindFunction** (May. 2011 - October 2011)
 
 ###Education:###
 **University:**		Istanbul Technical University - (Regular hours Education)  
