@@ -43,13 +43,14 @@
 * OOP Good  
 
 **Web Programming**  
-* HTML5 / CSS3 / Javascript / Jquery - Good
+* HTML5 / CSS3 - Good
+* Javascript - Good
+* AngularJS / Jquery - Good
 * Java Technologies (Core, JSP, JSF) - Good
 * PHP - Good
 
 **Frontend Frameworks**  
-* Twitter Bootstrap (2.3.3 / 3.0) Good
-* Jquery UI Good
+* Twitter Bootstrap - Good
 
 **Database Systems**  
 * MySQL - Good
@@ -79,6 +80,12 @@
 >Empatik.net 05.07.2010 - 13.08.2010(200 Hours)
 
 ###Projects###
+**Lines.js** - [github.com/dbtek/lines](http://github.com/dbtek/lines)  
+>Diagonal background lines library. Written in pure js. Available via bower.  
+
+**Bootstrap Vertical Tabs** - [github.com/dbtek/bootstrap-vertical-tabs](http://github.com/dbtek/bootstrap-vertical-tabs)  
+>Very lightweight, vertical tabs component for Bootstrap 3.  
+
 **Strapize - [Ongoing Development]** - http://strapize.com
 >Bootstrap customization. Lets users create elegant, sleek, personal Bootstrap designs.
 
@@ -119,6 +126,7 @@
 
 ###Club/Association Memberships###
 
+* Sanalkurs.net - Author, Editor
 * İTÜ Computer & Informatics Student Club
 * İTÜ Otokon Student Club
 
