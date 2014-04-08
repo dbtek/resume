@@ -10,7 +10,7 @@
 		 
 **Education :**			University (Graduate)  
 **Marital Status :**	Single  
-**Working Status :**	Unemployed  
+**Working Status :**	Employed  
 **Military Service :**	Not Done (Postponed)  
 **Date of Birth :**	01.01.1989  
 **Birth Place :**	ANTALYA  
@@ -19,7 +19,9 @@
 **Smoking:**		Non-smoker  
 
 ###Experience###
-- Freelance Web Developer | **localhost** (Current)
+- Software Engineer | **Egemsoft** (February 2014 - Current)
+- Web Developer | **Çamlıca Yayın** (July 2013 - February 2014)
+- Freelance Web Developer | **localhost** (2013)
 - Quality Assurance Professional - Oracle DB | **Turkcell**, Application Operations (June 2012 - Sept. 2012)
 - Software Developer - JS, MySql, PHP | **One World Istanbul Language Academy** (2011 - 2012)
 - Web Developer - PHP, MySql | **Istanbul Technical University** - Chancery (2011 - 2012)
@@ -27,7 +29,7 @@
 
 ###Education:###
 **University:**		Istanbul Technical University - (Regular hours Education)  
->09.2007 – 06.2012 - Computer and Informatics Faculty, Computer Engineering - Turkish  
+>09.2007 – 06.2013 - Computer and Informatics Faculty, Computer Engineering - Turkish  
   
 **High School**  
 06.2007		Antalya A. Atilla Konuk Anatolian High School 4,88 / 5  
@@ -37,20 +39,23 @@
 
 ###Qualifications###
 **Programming**  
-* Java Good  
-* C Good  
-* C++ Good  
-* OOP Good  
+* Java - Good  
+* C - Good  
+* C++ - Good  
+* OOP - Good  
 
 **Web Programming**  
-* HTML5 / CSS3 - Good
-* Javascript - Good
-* AngularJS / Jquery - Good
+* HTML5 / CSS3 - Expert
+* Javascript - Expert
+* AngularJS / Jquery - Expert
 * Java Technologies (Core, JSP, JSF) - Good
 * PHP - Good
 
 **Frontend Frameworks**  
-* Twitter Bootstrap - Good
+* Twitter Bootstrap - Expert
+  
+**Search & Analytics**
+* Elastic Search - Good
 
 **Database Systems**  
 * MySQL - Good
