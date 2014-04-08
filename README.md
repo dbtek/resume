@@ -4,7 +4,7 @@
 
 >**E-mail:**  demirbilek.ismail@gmail.com  	
 >**Web:**     [ismaildemirbilek.com](http://ismaildemirbilek.com)  
->**GSM:**     [90 507 257 59 53](tel:+905072575953)  
+>**GSM:**     90 507 2575953  
 >**Address:** Ahmediye Mh. Gündoğumu Cd. No: 82/3  
 34672, Üsküdar, İstanbul
 		 
