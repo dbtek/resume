@@ -2,21 +2,21 @@
 ==============
 ![image](../../blob/master/image.jpg?raw=true)  
 
->E-mail:  demirbilek.ismail@gmail.com  	
->Web:	  ismaildemirbilek.com  
->GSM:     90 507 257 59 53  
->Address: Bağlar Mh. Metin Sk. Güneşli Evleri D Blok No: 29  
-		 34207 Güneşli – İstanbul  
+>**E-mail:**  demirbilek.ismail@gmail.com  	
+>**Web:**     [ismaildemirbilek.com](http://ismaildemirbilek.com)  
+>**GSM:**     [90 507 257 59 53](tel:+905072575953)  
+>**Address:** Ahmediye Mh. Gündoğumu Cd. No: 82/3  
+34672, Üsküdar, İstanbul
 		 
-**Education :**			University (Graduate)  
-**Marital Status :**	Single  
-**Working Status :**	Employed  
+**Education :**         University (Graduate)  
+**Marital Status :**	  Single  
+**Working Status :**	  Employed  
 **Military Service :**	Not Done (Postponed)  
-**Date of Birth :**	01.01.1989  
-**Birth Place :**	ANTALYA  
-**Driving License :**	B (2007)  
-**Nationality :**	Turkey  
-**Smoking:**		Non-smoker  
+**Date of Birth :**     01.01.1989  
+**Birth Place :**	      ANTALYA  
+**Driving License :**	  B (2007)  
+**Nationality :**	      Turkey  
+**Smoking:**		        Non-smoker  
 
 ###Experience###
 - Software Engineer | **Egemsoft** (February 2014 - Current)
@@ -74,17 +74,27 @@
 * Windows - Expert
 * Mac OS - Intermediate
 
-###Trainings###
-
-**Java Programming**
->(Java & OO Concepts, Web Application Programming with Java, Java Programming, XML and Web Services)  
->Oracle Partner Academy: Linkplus - 09.08.2011 - 28.08.2011 (126Hours)
-
-**StajOkulu**
->(Veritabanı Uzmanlığı, Web Uygulamalarına Yönelik Saldırılar, Oracle Veritabanı Yönetim Sistemi, Hackerlar ve Saldırı Teknikleri, Mühendislikte Proje Yönetimi, Excel ile gelişmiş MIS uygulamaları, AğSistemleri, Google Web Araçları, Nasıl hızlı yazılım geliştirilir?, Arama motoru optimizasyonu, Bilişim Suçları ve Takibi, C# ile Proje Geliştirmek, PHP ile Proje Geliştirme)  
->Empatik.net 05.07.2010 - 13.08.2010(200 Hours)
+###Talks###
+**Responsive Web Design** - *Dec. 20, 2013*   
+>8th Sanalkurs IT Seminars  
+>Kemerburgaz University
 
 ###Projects###
+**Corange** - [github.com/dbtek/corange](http://github.com/dbtek/corange)
+>One page modern corporate website template. Compatible with gh-pages.
+
+**Angular WebSql Module** - [github.com/dbtek/angular-websql](http://github.com/dbtek/angular-websql)  
+>Provider with easy to use web sql methods for Angular JS.
+
+**Dbyll-Ghost, Ghost Theme** - [github.com/dbtek/dbyll-ghost](http://github.com/dbtek/dbyll-ghost)  
+>Minimalistic blog theme for Ghost platform. Ported from Dbyll.
+
+**Dbyll, Jekyll Theme** - [github.com/dbtek/dbyll](http://github.com/dbtek/dbyll)  
+>Modern, minimalistic blog theme for Jekyll.  
+
+**JekyllBootstrap 3** - [github.com/dbtek/jekyll-bootstrap-3](http://github.com/dbtek/jekyll-bootstrap-3)  
+>Extended Jekyll functionalities. BS3 fork of JekyllBootstrap.  
+
 **Lines.js** - [github.com/dbtek/lines](http://github.com/dbtek/lines)  
 >Diagonal background lines library. Written in pure js. Available via bower.  
 
@@ -94,26 +104,33 @@
 **Strapize - [Ongoing Development]** - http://strapize.com
 >Bootstrap customization. Lets users create elegant, sleek, personal Bootstrap designs.
 
-**Large Numbers Printing Orders Management Web Application [Ongoing Development]**
->(Tools: PHP, Codigniter (MVC Fw),  Smarty (Template Engine), MySQL, Javascript, JQuery, Twitter Bootstrap) - July 2013  
+**Large Numbers Printing Orders Management Web Application**
+>(Tools: PHP, Codigniter (MVC Fw),  Smarty (Template Engine), MySQL, Javascript, JQuery, Twitter Bootstrap) - July 2013
 
 **Self Service Restaurant Ticket Management System**
 >(Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap) - May 2013  
 
-**Online Mobile Web Application Generator (Without coding knowledge) [Ongoing Development]** – http://appself.tk
+**Online Mobile Web Application Generator (Without coding knowledge) [Thesis Project]** – http://appself.tk
 >(Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap, jqmPHP, HTML5, Zend) - February 2013  
 
 **Online Email Invitation – Campaign Site**
 >(Tools: PHP, MySQL, Javascript, JQuery UI, OpenInviter – Mindfunction Internship) - August 2011  
-
-**Daily Deals Site Development**
->(Tools: PHP, MySQL, Javascript, Open Source NDotDeals Script)  
 
 **Web Service Project**
 >(Tools: Java, Swing, Netbeans, Web Service)  
 
 **Online Banking Services**
 >(Tools: Java/Wicket/SQLite – Database Management Systems Course Project)  
+
+###Trainings###
+
+**Java Programming**
+>(Java & OO Concepts, Web Application Programming with Java, Java Programming, XML and Web Services)  
+>Oracle Partner Academy: Linkplus - 09.08.2011 - 28.08.2011 (126Hours)
+
+**StajOkulu**
+>(Veritabanı Uzmanlığı, Web Uygulamalarına Yönelik Saldırılar, Oracle Veritabanı Yönetim Sistemi, Hackerlar ve Saldırı Teknikleri, Mühendislikte Proje Yönetimi, Excel ile gelişmiş MIS uygulamaları, Ağ Sistemleri, Google Web Araçları, Nasıl hızlı yazılım geliştirilir?, Arama motoru optimizasyonu, Bilişim Suçları ve Takibi, C# ile Proje Geliştirmek, PHP ile Proje Geliştirme)  
+>Empatik.net 05.07.2010 - 13.08.2010(200 Hours)
 
 ###Certificates###
 
