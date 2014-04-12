@@ -72,7 +72,7 @@
 **Operating Systems**
 * Linux (Debian, Ubuntu) - Expert
 * Windows - Expert
-* Mac OS - Intermediate
+* Mac OS - Good
 
 ###Talks###
 **Responsive Web Design** - *Dec. 20, 2013*   
@@ -80,6 +80,13 @@
 >Kemerburgaz University
 
 ###Projects###
+**Terminal** - [github.com/dbtek/terminal](http://github.com/dbtek/terminal)  
+>Point of sale application. Product and sale management, multilingual. No setup, runs on gh-pages.  
+>Tools: AngularJS, Web Sql - April 2014
+
+**Angular Web Sql Module** - [github.com/dbtek/angular-websql](http://github.com/dbtek/angular-websql)  
+>Web sql query helper for Angular JS. Developed for POS app Terminal.  
+
 **Corange** - [github.com/dbtek/corange](http://github.com/dbtek/corange)
 >One page modern corporate website template. Compatible with gh-pages.
 
