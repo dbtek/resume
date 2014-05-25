@@ -8,15 +8,15 @@
 >**Address:** Ahmediye Mh. Gündoğumu Cd. No: 82/3  
 34672, Üsküdar, İstanbul
 		 
-**Education :**         University (Graduate)  
-**Marital Status :**	  Single  
-**Working Status :**	  Employed  
-**Military Service :**	Not Done (Postponed)  
-**Date of Birth :**     01.01.1989  
-**Birth Place :**	      ANTALYA  
-**Driving License :**	  B (2007)  
-**Nationality :**	      Turkey  
-**Smoking:**		        Non-smoker  
+**Education :** University (Graduate)  
+**Marital Status :** Single  
+**Working Status :** Employed  
+**Military Service :** Not Done (Postponed)  
+**Date of Birth :** 01.01.1989  
+**Birth Place :** Antalya  
+**Driving License :** B (2007)  
+**Nationality :** Turkey  
+**Smoking:** Non-smoker  
 
 ###Experience###
 - Software Engineer | **Egemsoft** (February 2014 - Current)
