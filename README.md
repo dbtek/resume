@@ -80,6 +80,17 @@
 >Kemerburgaz University
 
 ###Projects###
+
+**LOL - Log Analysis Platform** - Ongoing
+>Distributed log parsing and analysis platform for large amount of logs.
+>Tools: Syslog, Radius, Apache Flume, Kafka, Storm, ElasticSearch, Spring, Angular JS.
+>Egemsoft, 2014
+
+**Mail Archiving Solution** - Ongoing
+>High available, distributed, automated mail archiving product.
+>Tools: Hadoop, Kafka, HBase, Spring, ElasticSearch, MS Exhange; Angular JS.
+>Egemsoft, 2014
+
 **Terminal** - [github.com/dbtek/terminal](http://github.com/dbtek/terminal)  
 >Point of sale application. Product and sale management, multilingual. No setup, runs on gh-pages.  
 >Tools: AngularJS, Web Sql - April 2014
@@ -89,9 +100,6 @@
 
 **Corange** - [github.com/dbtek/corange](http://github.com/dbtek/corange)
 >One page modern corporate website template. Compatible with gh-pages.
-
-**Angular WebSql Module** - [github.com/dbtek/angular-websql](http://github.com/dbtek/angular-websql)  
->Provider with easy to use web sql methods for Angular JS.
 
 **Dbyll-Ghost, Ghost Theme** - [github.com/dbtek/dbyll-ghost](http://github.com/dbtek/dbyll-ghost)  
 >Minimalistic blog theme for Ghost platform. Ported from Dbyll.
@@ -156,8 +164,6 @@
 ###Club/Association Memberships###
 
 * Sanalkurs.net - Author, Editor
-* İTÜ Computer & Informatics Student Club
-* İTÜ Otokon Student Club
 
 ###Hobbies###
 
