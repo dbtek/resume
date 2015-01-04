@@ -19,7 +19,7 @@
 **Smoking:** Non-smoker  
 
 ###Experience###
-- Software Engineer | **Egemsoft** (February 2014 - Current)
+- Software Engineer, *Big Data Search Engineer, Front-end Engineer* | **Egemsoft** (February 2014 - Current)
 - Web Developer | **Çamlıca Yayın** (July 2013 - February 2014)
 - Freelance Web Developer | **localhost** (2013)
 - Quality Assurance Professional - Oracle DB | **Turkcell**, Application Operations (June 2012 - Sept. 2012)
@@ -38,7 +38,9 @@
 - English  
 
 ###Qualifications###
-**Programming**  
+**Programming**
+* Javascript - Expert
+* Python - Good
 * Java - Good  
 * C - Good  
 * C++ - Good  
@@ -46,16 +48,25 @@
 
 **Web Programming**  
 * HTML5 / CSS3 - Expert
-* Javascript - Expert
-* AngularJS / Jquery - Expert
-* Java Technologies (Core, JSP, JSF) - Good
-* PHP - Good
+* Coffeescript / Javascript - Expert
+* AngularJS - Expert
+* Node JS - Expert
 
-**Frontend Frameworks**  
-* Twitter Bootstrap - Expert
+**Front-end Frameworks**  
+* Bootstrap - Expert
+* Angular UI Bootstrap - Expert
+* Angular Material UI - Expert
+  
+**Automation & Continuous Integration**
+* Grunt Build System - Expert
+* Gulp Build System - Good
+* Jenkins - Expert
+* Travis CI - Expert
+* Ansible - Expert
+* Chef - Good
   
 **Search & Analytics**
-* Elastic Search - Good
+* Elasticsearch - Expert
 
 **Database Systems**  
 * MySQL - Good
@@ -71,8 +82,7 @@
 
 **Operating Systems**
 * Linux (Debian, Ubuntu) - Expert
-* Windows - Expert
-* Mac OS - Good
+* Mac OSX - Expert
 
 ###Talks###
 **Responsive Web Design** - *Dec. 20, 2013*   
