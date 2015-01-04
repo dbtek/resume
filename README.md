@@ -72,7 +72,8 @@
 * MySQL - Good
 * Oracle - Intermediate
 * SQLite - Good
-* MongoDB - Beginner
+* MongoDB - Good
+* PostgreSQL - Good
 
 **Tools** 
 * XML - Good
@@ -90,6 +91,12 @@
 >Kemerburgaz University
 
 ###Projects###
+
+**Angular Aside Module** - [github.com/dbtek/angular-aside](http://github.com/dbtek/angular-aside)  
+>Off canvas side menu to use with ui-bootstrap.
+
+**Bootswatch Themes Distribution Packages** - [github.com/dbtek/boostwatch-dist](http://github.com/dbtek/bootswatch-dist)  
+>Distribution packages for bootswatch themes. Improved package manager and dependency integration for Bootswatch themes.
 
 **LOL - Log Analysis Platform** - Ongoing
 >Distributed log parsing and analysis platform for large amount of logs.
