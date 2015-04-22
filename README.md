@@ -40,17 +40,18 @@
 ###Qualifications###
 **Programming**
 * Javascript - Expert
+* Node JS - Expert
 * Python - Good
-* Java - Good  
-* C - Good  
-* C++ - Good  
-* OOP - Good  
+* Java - Good
+* C - Good
+* C++ - Good
+* OOP - Good
 
 **Web Programming**  
 * HTML5 / CSS3 - Expert
+* Sass / Compass - Good
 * Coffeescript / Javascript - Expert
 * AngularJS - Expert
-* Node JS - Expert
 
 **Front-end Frameworks**  
 * Bootstrap - Expert
@@ -58,10 +59,10 @@
 * Angular Material UI - Expert
   
 **Automation & Continuous Integration**
-* Grunt Build System - Expert
+* Grunt Task Runner - Expert
 * Gulp Build System - Good
 * Jenkins - Expert
-* Travis CI - Expert
+* Travis CI - Expertg
 * Ansible - Expert
 * Chef - Good
   
@@ -92,18 +93,22 @@
 
 ###Projects###
 
+**Esefpy - Egemsoft Python Framework**
+>Handcrafted reusable RESTful Python/Django modules with complimentary AngularJS clients.
+>Egemsoft 2014 - 2015
+
 **Angular Aside Module** - [github.com/dbtek/angular-aside](http://github.com/dbtek/angular-aside)  
 >Off canvas side menu to use with ui-bootstrap.
 
-**Bootswatch Themes Distribution Packages** - [github.com/dbtek/boostwatch-dist](http://github.com/dbtek/bootswatch-dist)  
+**Bootswatch Themes Distribution Packages** [github.com/dbtek/boostwatch-dist](http://github.com/dbtek/bootswatch-dist)  
 >Distribution packages for bootswatch themes. Improved package manager and dependency integration for Bootswatch themes.
 
-**LOL - Log Analysis Platform** - Ongoing
+**LOL - Log Analysis Platform**
 >Distributed log parsing and analysis platform for large amount of logs.
 >Tools: Syslog, Radius, Apache Flume, Kafka, Storm, ElasticSearch, Spring, Angular JS.
->Egemsoft, 2014
+>Egemsoft, 2014 - 2015
 
-**Mail Archiving Solution** - Ongoing
+**Mail Archiving Solution**
 >High available, distributed, automated mail archiving product.
 >Tools: Hadoop, Kafka, HBase, Spring, ElasticSearch, MS Exhange; Angular JS.
 >Egemsoft, 2014
