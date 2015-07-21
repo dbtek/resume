@@ -19,20 +19,30 @@
 **Smoking:** Non-smoker  
 
 ###Experience###
-- Software Engineer, *Big Data Search Engineer, Front-end Engineer* | **Egemsoft** (February 2014 - Current)
-- Web Developer | **Çamlıca Yayın** (July 2013 - February 2014)
-- Freelance Web Developer | **localhost** (2013)
-- Quality Assurance Professional - Oracle DB | **Turkcell**, Application Operations (June 2012 - Sept. 2012)
-- Software Developer - JS, MySql, PHP | **One World Istanbul Language Academy** (2011 - 2012)
-- Web Developer - PHP, MySql | **Istanbul Technical University** - Chancery (2011 - 2012)
-- Software Developer - RCP, Eclipse, Java | **MindFunction** (May. 2011 - October 2011)
+- CTO, ***Inovatif Bilgi ve Enerji Tek.***  
+  May 2015 - Current
+- Software Engineer, ***Egemsoft***  
+  February 2014 - May 2015, *Big Data Search Engineer, Front-end Engineer*  
+- Software Engineer, ***Çamlıca Yayın***  
+  July 2013 - February 2014
+- Freelance Web Developer  
+  2013
+- Quality Assurance Professional, ***Turkcell***, Application Operations  
+  June 2012 - September 2012
+- Web Developer, ***One World Istanbul Language Academy***  
+  2011 - 2012
+- Web Developer, ***Istanbul Technical University*** - Chancery  
+  2011 - 2012
+- Software Engineer Intern, ***MindFunction***  
+  May 2011 - October 2011
 
 ###Education:###
-**University:**		Istanbul Technical University - (Regular hours Education)  
->09.2007 – 06.2013 - Computer and Informatics Faculty, Computer Engineering - Turkish  
-  
-**High School**  
-06.2007		Antalya A. Atilla Konuk Anatolian High School 4,88 / 5  
+- Msc. Applied Informatics, ***Istanbul Technical University***
+- July 2015 - Current
+- Bsc. Computer Engineering, ***Istanbul Technical University***  
+  September 2007 - June 2013, Degree: 2.75/4  
+- ***Antalya A. Atilla Konuk Anatolian High School***  
+  September 2003 - June 2007, Degree: 4.88/5  
   
 ###Foreign Languages###
 - English  
