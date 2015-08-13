@@ -19,6 +19,8 @@
 **Smoking:** Non-smoker  
 
 ###Experience###
+- Software Engineer / Designer, ***Inovatif Bilgi ve Enerji Tek.***  
+  May 2015 - Current, *2D/3D CAD Apps, Graphics Dev.*
 - CTO, ***Inovatif Bilgi ve Enerji Tek.***  
   May 2015 - Current
 - Software Engineer, ***Egemsoft***  
