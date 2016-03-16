@@ -165,5 +165,5 @@ Tools: PHP, Codigniter,  Smarty (Template Engine), MySQL, Javascript, JQuery, Tw
 **Self Service Restaurant Ticket Management System**  
 Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap - May 2013  
 
-**Online Mobile Web Application Generator (Without coding knowledge) [Thesis Project]** – http://appself.tk  
+**Online Mobile Web Application Generator (Without coding knowledge) [Thesis Project]**  
 Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap, jqmPHP, HTML5, Zend - February 2013
