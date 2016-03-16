@@ -1,6 +1,9 @@
-İsmail Demirbilek
-==============
-![image](../../blob/master/image.png?raw=true)  
+<h1 align="center">
+  İsmail Demirbilek
+</h1>
+<h3 align="center">
+  <img src ="../../blob/master/image.png?raw=true"/>
+</h3>
 
 >**E-mail:**  demirbilek.ismail@gmail.com  	
 >**Web:**     [ismaildemirbilek.com](http://ismaildemirbilek.com)  
