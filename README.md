@@ -59,26 +59,27 @@ These are the keywords to summarize my personal interests:
 ###Qualifications###
 **Programming**
 * Javascript - Expert
-* Node JS - Expert
+* NodeJS - Good
 * Python - Good
 * Java - Good
 * C - Good
 * C++ - Good
 * OOP - Good
 
-**Web Programming**  
+**Frontend**
 * HTML5 / CSS3 - Expert
-* Sass / Compass - Expert
-* Coffeescript / Javascript - Expert
 * ES6 - Expert
+* Coffeescript - Expert
+* Sass / Compass - Expert
 * AngularJS - Expert
 * React - Good
 * Flux / Redux - Good
+* Bootstrap, Angular UI Bootstrap, Angular Material UI - Expert
 
-**Front-end Frameworks**  
-* Bootstrap - Expert
-* Angular UI Bootstrap - Expert
-* Angular Material UI - Expert
+**Backend**
+* RESTFul web APIs - Expert
+* NodeJS  / Express - Expert
+* Java / Spring MVC - Good
   
 **Devops & Automation**
 * Docker - Good
@@ -88,11 +89,11 @@ These are the keywords to summarize my personal interests:
 **Search & Analytics**
 * Elasticsearch - Expert
 
-**Database Systems**  
+**Database Systems**
 * Relational Databases (PostgreSQL, MySQL) - Good
 * MongoDB - Good
 
-**Tools** 
+**Tools**
 * Git - Expert
 
 **Operating Systems**
