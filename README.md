@@ -110,28 +110,28 @@ Kemerburgaz University
 
 ###Projects###
 **IfPlan - 2D/3D Planner, Graphics Editor**  
-High performance cross-device graphics editor, being built on cutting edge web technologies.
-Tools: HTML5 Canvas, WebGL, EaselJS, BabylonJs, CoffeeScript, AngularJS, Gulp, Browserify.
+High performance cross-device graphics editor, being built on cutting edge web technologies.  
+Tools: HTML5 Canvas, WebGL, EaselJS, BabylonJs, CoffeeScript, AngularJS, Gulp, Browserify.  
 Inovatif, May 2015 - Current
 
 **Esefpy - Egemsoft Python Framework**  
-Handcrafted reusable RESTful Python/Django modules with complimentary AngularJS clients.
+Handcrafted reusable RESTful Python/Django modules with complimentary AngularJS clients.  
 Egemsoft, 2014 - 2015
 
 **Angular Aside Module** - [github.com/dbtek/angular-aside](http://github.com/dbtek/angular-aside)  
-Open source, off canvas side menu to use with ui-bootstrap.
+Open source, off canvas side menu to use with ui-bootstrap.  
 
 **Bootswatch Themes Distribution Packages** [github.com/dbtek/boostwatch-dist](http://github.com/dbtek/bootswatch-dist)  
 Open source, distribution packages for bootswatch themes. Improved package manager and dependency integration for Bootswatch.
 
 **LOL - Log Analysis Platform**  
-Distributed log parsing and analysis platform for large amount of logs.
-Tools: Syslog, Radius, Apache Flume, Kafka, Storm, ElasticSearch, Spring, Angular JS.
+Distributed log parsing and analysis platform for large amount of logs.  
+Tools: Syslog, Radius, Apache Flume, Kafka, Storm, ElasticSearch, Spring, Angular JS.  
 Egemsoft, 2014 - 2015
 
 **Mail Archiving Solution**  
-High available, distributed, automated mail archiving product.
-Tools: Hadoop, Kafka, HBase, Spring, ElasticSearch, MS Exhange; Angular JS.
+High available, distributed, automated mail archiving product.  
+Tools: Hadoop, Kafka, HBase, Spring, ElasticSearch, MS Exhange; Angular JS.  
 Egemsoft, 2014
 
 **Terminal** - [github.com/dbtek/terminal](http://github.com/dbtek/terminal)  
@@ -160,13 +160,13 @@ Open source, diagonal background lines library. Written in pure js. Available vi
 Open source, very lightweight, vertical tabs component for Bootstrap 3.  
 
 **Large Numbers Printing Orders Management Web Application**  
-(Tools: PHP, Codigniter,  Smarty (Template Engine), MySQL, Javascript, JQuery, Twitter Bootstrap) - July 2013
+Tools: PHP, Codigniter,  Smarty (Template Engine), MySQL, Javascript, JQuery, Twitter Bootstrap - July 2013
 
 **Self Service Restaurant Ticket Management System**  
-(Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap) - May 2013  
+Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap - May 2013  
 
 **Online Mobile Web Application Generator (Without coding knowledge) [Thesis Project]** – http://appself.tk  
-(Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap, jqmPHP, HTML5, Zend) - February 2013
+Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap, jqmPHP, HTML5, Zend - February 2013
 
 ###Hobbies###
 
