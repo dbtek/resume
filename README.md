@@ -5,21 +5,19 @@
   <img src ="../../blob/master/image.png?raw=true"/>
 </h3>
 
->**E-mail:**  demirbilek.ismail@gmail.com  	
->**Web:**     [ismaildemirbilek.com](http://ismaildemirbilek.com)  
->**GSM:**     90 542 3161888  
->**Address:** Ahmediye Mh. Gündoğumu Cd. No: 82/3  
+**E-mail:**  demirbilek.ismail@gmail.com  	
+**Web:**     [ismaildemirbilek.com](http://ismaildemirbilek.com)  
+**GSM:**     90 542 3161888  
+**Address:** Ahmediye Mh. Gündoğumu Cd. No: 82/3  
 34672, Üsküdar, İstanbul
 		 
-**Education :** University (Graduate)  
+**Education :** BSc in Computer Engineering, MSc in Applied Informatics  
 **Marital Status :** Single  
 **Working Status :** Employed  
-**Military Service :** Not Done (Postponed, 2018)  
-**Date of Birth :** 01.01.1989  
-**Birth Place :** Antalya  
-**Driving License :** B (2007)  
 **Nationality :** Turkey  
 **Smoking:** Non-smoker  
+
+<h2></h2>
 
 ###Keywords
 These are the keywords to summarize my personal interests:  
