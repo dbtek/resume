@@ -167,12 +167,3 @@ Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap - May 2013
 
 **Online Mobile Web Application Generator (Without coding knowledge) [Thesis Project]** – http://appself.tk  
 Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap, jqmPHP, HTML5, Zend - February 2013
-
-###Hobbies###
-
-* Photography
-* Tennis
-* Cooking
-* Simple GPIO & Electronics Programming (Currently using Raspberry PI)
-* Karting
-* Dive into GitHub
