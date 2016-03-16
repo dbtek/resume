@@ -105,8 +105,8 @@ These are the keywords to summarize my personal interests:
 
 ###Talks###
 **Responsive Web Design** - *Dec. 20, 2013*   
->8th Sanalkurs IT Seminars  
->Kemerburgaz University
+8th Sanalkurs IT Seminars  
+Kemerburgaz University
 
 ###Projects###
 **IfPlan - 2D/3D Planner, Graphics Editor**  
