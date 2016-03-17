@@ -10,7 +10,7 @@
 **GSM:**     90 542 3161888  
 **Address:** Ahmediye Mh. Gündoğumu Cd. No: 82/3  
 34672, Üsküdar, İstanbul
-     
+
 **Education :** BSc in Computer Engineering, MSc in Applied Informatics  
 **Marital Status :** Single  
 **Working Status :** Employed  
@@ -109,6 +109,15 @@ These are the keywords to summarize my personal interests:
 Kemerburgaz University
 
 ###Projects###
+**Microsite** - [github.com/dbtek/microsite](http://github.com/dbtek/microsite)  
+Personal micro home page template. Runs on Github Pages, built on Material Design Lite.  
+Mar 2016
+
+**Paper** - [github.com/dbtek/paper](http://github.com/dbtek/paper)  
+A new open source material design utilising theme for Jekyll blogs. Built on Material Design Lite.  
+Tools: Jekyll, Sass, CoffeeScript.  
+Nov 2015
+
 **IfPlan - 2D/3D Planner, Graphics Editor**  
 High performance cross-device graphics editor, being built on cutting edge web technologies.  
 Tools: HTML5 Canvas, WebGL, EaselJS, BabylonJs, CoffeeScript, AngularJS, Gulp, Browserify.  
