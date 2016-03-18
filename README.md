@@ -2,7 +2,7 @@
   İsmail Demirbilek
 </h1>
 <h3 align="center">
-  <img src="https://github.com/dbtek/resume/blob/master/image.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/dbtek/resume/master/image.png"/>
 </h3>
 
 **E-mail:**  demirbilek.ismail@gmail.com    
