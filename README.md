@@ -5,9 +5,8 @@
   <img src="https://raw.githubusercontent.com/dbtek/resume/master/image.png"/>
 </h3>
 
-**E-mail:**  demirbilek.ismail@gmail.com    
-**Web:**     [ismaildemirbilek.com](http://ismaildemirbilek.com)  
-**GSM:**     90 542 3161888  
+**E-mail:**           demirbilek.ismail@gmail.com    
+**Web:**              [ismaildemirbilek.com](http://ismaildemirbilek.com)  
 **Address:** Ahmediye Mh. Gündoğumu Cd. No: 82/3  
 34672, Üsküdar, İstanbul
 
