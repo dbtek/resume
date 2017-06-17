@@ -63,10 +63,10 @@
 * JavaScript, ES6 / ES7 - Expert
 * Sass - Expert
 * Canvas - Good
+* Gulp, Browserify, Webpack - Expert
   
 **Devops & Automation**
 * Docker - Good
-* Gulp Build System - Expert
 * AWS (EC2, EC2 Container Engine) - Good
 * Google Cloud Platform - Good
   
@@ -76,10 +76,6 @@
 **Tools**
 * Git - Expert
 
-**Operating Systems**
-* Linux (Debian, Ubuntu, CentOS) - Expert
-* Mac OSX - Expert
-
 ### Talks
 **Responsive Web Design** - *Dec. 20, 2013*   
 8th Sanalkurs IT Seminars  
@@ -87,11 +83,17 @@ Kemerburgaz University
 
 ### Projects
 **Anikutusu**  
-Ecommerce web app frontend. Built with cutting edge Javascript tech ([choo](https://github.com/yoshuawuyts/choo), ES2015 template literals, [bel](https://github.com/shama/bel))  
+Cumstom photo-printing e-commerce web app frontend. Built with cutting edge Javascript tech ([choo](https://github.com/yoshuawuyts/choo), ES2015 template literals, [bel](https://github.com/shama/bel))  
 May 2017
+
+**pgfire**  
+Serverless social portal for small / mid-sized groups.
+JavaScript, [choo](https://github.com/yoshuawuyts/choo), [bel](https://github.com/shama/bel). Firebase, Cloudinary.  
+*Will be open sourced soon*
 
 **React Popover**  [github.com/dbtek/react-popover](http://github.com/dbtek/react-popover)  
 Totally controlled popover component based on React Overlays.
+June 2017
 
 **Microsite** - [github.com/dbtek/microsite](http://github.com/dbtek/microsite)  
 Personal micro home page template. Runs on Github Pages, built on Material Design Lite.  
