@@ -7,8 +7,7 @@
 
 **E-mail:**           demirbilek.ismail@gmail.com    
 **Web:**              [ismaildemirbilek.com](http://ismaildemirbilek.com)  
-**Address:** Ahmediye Mh. Gündoğumu Cd. No: 82/3  
-34672, Üsküdar, İstanbul
+**Address:** Hatip Cd 14/9 34768 Ümraniye, İstanbul
 
 **Education :** BSc in Computer Engineering, MSc in Applied Informatics  
 **Marital Status :** Single  
@@ -22,13 +21,13 @@
 
 > These are the keywords to summarise my personal interests:
 
-> - Javascript, ES6, ES7, React, Angular
-> - Front-end oriented full stack development
+> - Javascript, ES6, ES7, React, Template Literals
+> - Front-end development
 > - Containerized web applications
 
 ---
 
-###Experience###
+### Experience
 - Software Engineer / Designer, Inovatif Bilgi ve Enerji Tek.  
   May 2015 - Current, *2D/3D CAD Apps, Graphics Dev.*
 - CTO, Inovatif Bilgi ve Enerji Tek.  
@@ -48,7 +47,7 @@
 - Software Engineer Intern, MindFunction  
   May 2011 - October 2011
 
-###Education:###
+### Education:
 - Msc. Applied Informatics, **Istanbul Technical University**
   July 2015 - Current
 - Bsc. Computer Engineering, **Istanbul Technical University**  
@@ -56,48 +55,23 @@
 - **Antalya A. Atilla Konuk Anatolian High School**  
   September 2003 - June 2007, Degree: 4.88/5  
   
-###Foreign Languages###
+### Foreign Languages
 - English  
-
-###Qualifications###
-**Programming**
-* Javascript - Expert
-* NodeJS - Good
-* Python - Good
-* Java - Good
-* C - Good
-* C++ - Good
-* OOP - Good
 
 **Frontend**
 * HTML5 / CSS3 - Expert
-* ES6 - Expert
-* Coffeescript - Expert
-* Sass / Compass - Expert
-* AngularJS - Expert
-* React - Good
-* Flux / Redux - Good
-* Bootstrap, Angular UI Bootstrap, Angular Material UI - Expert
-
-**Backend**
-* RESTFul web APIs - Expert
-* NodeJS  / Express - Expert
-* Java / Spring MVC - Good
+* JavaScript, ES6 / ES7 - Expert
+* Sass - Expert
+* Canvas - Good
   
 **Devops & Automation**
 * Docker - Good
 * Gulp Build System - Expert
-* Used: Grunt, Jenkins, Ansible, Chef, Travis CI, Circle CI, Shippable
-* Tutum, Docker Cloud - Good
 * AWS (EC2, EC2 Container Engine) - Good
 * Google Cloud Platform - Good
   
 **Search & Analytics**
 * Elasticsearch - Expert
-
-**Database Systems**
-* Relational Databases (PostgreSQL, MySQL) - Good
-* MongoDB - Good
 
 **Tools**
 * Git - Expert
@@ -106,12 +80,19 @@
 * Linux (Debian, Ubuntu, CentOS) - Expert
 * Mac OSX - Expert
 
-###Talks###
+### Talks
 **Responsive Web Design** - *Dec. 20, 2013*   
 8th Sanalkurs IT Seminars  
 Kemerburgaz University
 
-###Projects###
+### Projects
+**Anikutusu**  
+Ecommerce web app frontend. Built with cutting edge Javascript tech ([choo](https://github.com/yoshuawuyts/choo), ES2015 template literals, [bel](https://github.com/shama/bel))  
+May 2017
+
+**React Popover**  [github.com/dbtek/react-popover](http://github.com/dbtek/react-popover)  
+Totally controlled popover component based on React Overlays.
+
 **Microsite** - [github.com/dbtek/microsite](http://github.com/dbtek/microsite)  
 Personal micro home page template. Runs on Github Pages, built on Material Design Lite.  
 Mar 2016
