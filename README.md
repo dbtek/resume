@@ -83,12 +83,14 @@ Kemerburgaz University
 
 ### Projects
 **Anikutusu**  
-Cumstom photo-printing e-commerce web app frontend. Built with cutting edge Javascript tech ([choo](https://github.com/yoshuawuyts/choo), ES2015 template literals, [bel](https://github.com/shama/bel))  
+Cumstom photo-printing e-commerce web app frontend. Built with cutting edge Javascript tech.
+([choo](https://github.com/yoshuawuyts/choo), ES2015 template literals, [bel](https://github.com/shama/bel))  
 May 2017
 
 **pgfire**  
-Serverless social portal for small / mid-sized groups.
-JavaScript, [choo](https://github.com/yoshuawuyts/choo), [bel](https://github.com/shama/bel). Firebase, Cloudinary.  
+Serverless social portal for small / mid-sized groups. Manages posts, events, job-postings, members and many other group tasks.  
+JavaScript, [choo](https://github.com/yoshuawuyts/choo), [bel](https://github.com/shama/bel). Firebase, Cloudinary, Algolia.  
+Jan 2017  
 *Will be open sourced soon*
 
 **React Popover**  [github.com/dbtek/react-popover](http://github.com/dbtek/react-popover)  
