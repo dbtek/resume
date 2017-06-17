@@ -83,7 +83,7 @@ Kemerburgaz University
 
 ### Projects
 **Anikutusu**  
-Cumstom photo-printing e-commerce web app frontend. Built with cutting edge Javascript tech.
+Custom photo-printing e-commerce web app frontend. Built with cutting edge Javascript tech.
 ([choo](https://github.com/yoshuawuyts/choo), ES2015 template literals, [bel](https://github.com/shama/bel))  
 May 2017
 
