@@ -30,8 +30,6 @@
 ### Experience
 - Software Engineer / Designer, Inovatif Bilgi ve Enerji Tek.  
   May 2015 - Current, *2D/3D CAD Apps, Graphics Dev.*
-- CTO, Inovatif Bilgi ve Enerji Tek.  
-  May 2015 - Feb 2016
 - Software Engineer, Egemsoft  
   February 2014 - May 2015, *Big Data Search Engineer, Front-end Engineer*  
 - Software Engineer, Çamlıca Yayın  
