@@ -95,9 +95,9 @@ Serverless social portal for small / mid-sized groups. Manages posts, events, jo
 Tools: JavaScript, [choo](https://github.com/yoshuawuyts/choo), [bel](https://github.com/shama/bel). Firebase, Cloudinary, Algolia.  
 Jan 2017  
 
-**IfPlan - 2D/3D Planner, Graphics Editor**  
+**ifplan - 2D/3D Planner, Graphics Editor**  
 High performance cross-device graphics editor, being built on cutting edge web technologies.  
-Tools: HTML5 Canvas, WebGL, EaselJS, BabylonJs, CoffeeScript, AngularJS, Gulp, Browserify.  
+Tools: HTML5 Canvas, WebGL, EaselJS, BabylonJS, AngularJS (1.x), Gulp, ~~CoffeeScript~~, JavaScript, ~~Browserify~~, Parcel Bundler.  
 Inovatif, May 2015 - Current
 
 **Esefpy - Egemsoft Python Framework**  
