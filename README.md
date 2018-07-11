@@ -17,14 +17,8 @@
 
 <h2></h2>
 
-> I am very passionate about the web and the technologies emerge around it. I am a front-end engineer who enjoys trying new tools & techs. I like ES6, React, Redux, SCSS on front-end side; and Docker, Node.js, MongoDB on backend side. I also like to play with React Native on mobile.
-
-> These are the keywords to summarise my personal interests:
-
-> - Javascript, ES6, ES7, React, Template Literals
-> - Front-end development
-> - Containerized web applications
-
+> I am very passionate about the web and the technologies emerge around it. I am a front-end engineer who enjoys trying new tools & techs.  
+> I like ES6, React, Redux, Apollo, SCSS on front-end side; Docker, GraphQL on backend side. I also like to play with React Native on mobile.
 ---
 
 ### Experience
