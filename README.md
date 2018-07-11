@@ -86,7 +86,7 @@ Tools: JavaScript, GraphQL, React, Apollo, Material UI with Prisma, graphql-yoga
 Jun 2018
 
 **Anikutusu**  
-Custom photo-printing e-commerce web app frontend. Built with cutting edge Javascript tech.  
+Custom photo-printing e-commerce web app frontend. Built with cutting edge JavaScript tech.  
 Tools [choo](https://github.com/yoshuawuyts/choo), ES2015 template literals, [bel](https://github.com/shama/bel)  
 May 2017
 
