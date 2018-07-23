@@ -9,10 +9,10 @@
 **Web:**              [ismaildemirbilek.com](http://ismaildemirbilek.com)  
 **Address:** Hatip Cd 14/9 34768 Ümraniye, İstanbul
 
-**Education :** BSc in Computer Engineering, MSc in Applied Informatics  
-**Marital Status :** Married  
-**Working Status :** Employed  
-**Nationality :** Turkey  
+**Education:** BSc in Computer Engineering, MSc in Applied Informatics  
+**Marital Status:** Married  
+**Working Status:** Employed  
+**Nationality:** Turkey  
 **Smoking:** Non-smoker  
 
 <h2></h2>
