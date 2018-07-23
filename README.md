@@ -10,7 +10,7 @@
 **Address:** Hatip Cd 14/9 34768 Ümraniye, İstanbul
 
 **Education :** BSc in Computer Engineering, MSc in Applied Informatics  
-**Marital Status :** Single  
+**Marital Status :** Married  
 **Working Status :** Employed  
 **Nationality :** Turkey  
 **Smoking:** Non-smoker  
