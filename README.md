@@ -17,15 +17,15 @@
 
 <h2></h2>
 
-> I am very passionate about the web and the technologies emerge around it. I am a front-end engineer who enjoys trying new tools & techs.  
-> I like ES6, React, Redux, Apollo, SCSS on front-end side; Docker, GraphQL on backend side. I also like to play with React Native on mobile.
+> I am very passionate about the web and the technologies emerge around it. I am a frontend engineer who enjoys trying new tools & techs.  
+> I like ES6, React, Redux, Apollo, SCSS on frontend side; Docker, GraphQL on backend side. I also like to play with React Native on mobile.
 ---
 
 ### Experience
 - Software Engineer / Designer, Inovatif Bilgi ve Enerji Tek.  
-  May 2015 - Current, *2D/3D CAD Apps, Graphics Dev.*
+  May 2015 - Current, *Frontend Dev., 2D/3D Graphics Dev.* . 
 - Software Engineer, Egemsoft  
-  February 2014 - May 2015, *Big Data Search Engineer, Front-end Engineer*  
+  February 2014 - May 2015, *Big Data Search Engineer, Frontend Developer*
 - Software Engineer, Çamlıca Yayın  
   July 2013 - February 2014
 - Freelance Web Developer  
@@ -40,9 +40,9 @@
   May 2011 - October 2011
 
 ### Education:
-- Msc. Applied Informatics, **Istanbul Technical University**
+- MSc Applied Informatics, **Istanbul Technical University**
   July 2015 - Current
-- Bsc. Computer Engineering, **Istanbul Technical University**  
+- BSc Computer Engineering, **Istanbul Technical University**  
   September 2007 - June 2013, Degree: 2.75/4  
 - **Antalya A. Atilla Konuk Anatolian High School**  
   September 2003 - June 2007, Degree: 4.88/5  
@@ -59,11 +59,11 @@
   
 **Devops & Automation**
 * Docker - Good
-* AWS (EC2, EC2 Container Engine) - Good
+* AWS - Good
 * Google Cloud Platform - Good
   
 **Search & Analytics**
-* Elasticsearch - Expert
+* Elasticsearch - Good
 
 **Tools**
 * Git - Expert
@@ -74,9 +74,18 @@
 Kemerburgaz University
 
 ### Projects
+**Children's Physical Development Checking App (MSc Thesis)**  
+A mobile application for doctors to easily check physical development of children. Part of the continuing thesis project.
+Tools: React Native, Unstated.  
+
+**NDORS**  
+A web application for authorities to do endorsements on digitally signed instalment projects (PDF).  
+Tools: React, Unstated, Material UI, Swagger.  
+Jan 2019  
+
 **Project Planning App**  
 An easy to use practical web application to plan any project.  
-Tools: JavaScript, GraphQL, React, Apollo, Material UI with Prisma, graphql-yoga on backend  
+Tools: JavaScript, GraphQL, React, Apollo, Material UI; with Prisma, graphql-yoga on backend  
 Jun 2018
 
 **Anikutusu**  
@@ -100,16 +109,13 @@ Egemsoft, 2014 - 2015
 
 **LOL - Log Analysis Platform**  
 Distributed log parsing and analysis platform for large amount of logs.  
-Tools: Syslog, Radius, Apache Flume, Kafka, Storm, ElasticSearch, Spring, Angular JS.  
+Tools: Angular JS, ElasticSearch; Syslog, Radius, Apache Flume, Kafka, Storm, Spring.  
 Egemsoft, 2014 - 2015
 
 **Mail Archiving Solution**  
 High available, distributed, automated mail archiving product.  
-Tools: Hadoop, Kafka, HBase, Spring, ElasticSearch, MS Exhange; Angular JS.  
+Tools: Hadoop, Kafka, HBase, Spring, Elasticsearch, MS Exhange; Angular JS.  
 Egemsoft, 2014
 
-**Large Numbers Printing Orders Management Web Application**  
+**Large Numbers of Printing Order Web Application**  
 Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap - July 2013
-
-**Self Service Restaurant Ticket Management System**  
-Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap - May 2013  
