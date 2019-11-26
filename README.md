@@ -67,7 +67,8 @@
 ### Projects
 **Children's Growth Diagnosis App (MSc Thesis)**  
 A mobile application for doctors to easily check physical development of children. Part of the master's degree thesis project. This work includes mathematically modeling the child growth based on growth charts in 7 groups.  
-Tools: Mobile App: React Native, Unstated. Web App: React, Unstated, Material UI . 
+Tools: Mobile App: React Native, Unstated. Web App: React, Unstated, Material UI.  
+2019
 
 **NDORS**  
 A web application for authorities to do endorsements on digitally signed instalment projects (PDF).  
