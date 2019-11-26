@@ -17,7 +17,7 @@
 
 <h2></h2>
 
-> I am very passionate about the web and the technologies emerge around it. I am a frontend engineer who enjoys trying new tools & techs.  
+> I am very passionate about the web and the technologies emerge around it. I am a frontend engineer who enjoys trying new tools & techs. I am also a strong believer of open source.  
 > I like ES6, React, Redux, Apollo, SCSS on frontend side; Docker, GraphQL on backend side. I also like to play with React Native on mobile.
 ---
 
@@ -51,32 +51,23 @@
 - English  
 
 **Frontend**
-* HTML5 / CSS3 - Expert
-* JavaScript, ES6 / ES7 - Expert
-* Sass - Expert
-* Canvas - Good
-* Gulp, Browserify, Webpack - Expert
+* HTML5 / CSS3
+* JavaScript, ES6+
+* Scss/Sass
+* Canvas
+* Gulp, Browserify, Webpack
   
 **Devops & Automation**
-* Docker - Good
-* AWS - Good
-* Google Cloud Platform - Good
-  
-**Search & Analytics**
-* Elasticsearch - Good
+* Docker
+* AWS
 
 **Tools**
-* Git - Expert
-
-### Talks
-**Responsive Web Design** - *Dec. 20, 2013*   
-8th Sanalkurs IT Seminars  
-Kemerburgaz University
+* Git
 
 ### Projects
-**Children's Physical Development Checking App (MSc Thesis)**  
-A mobile application for doctors to easily check physical development of children. Part of the continuing thesis project.
-Tools: React Native, Unstated.  
+**Children's Growth Diagnosis App (MSc Thesis)**  
+A mobile application for doctors to easily check physical development of children. Part of the master's degree thesis project. This work includes mathematically modeling the child growth based on growth charts in 7 groups.  
+Tools: Mobile App: React Native, Unstated. Web App: React, Unstated, Material UI . 
 
 **NDORS**  
 A web application for authorities to do endorsements on digitally signed instalment projects (PDF).  
@@ -117,5 +108,3 @@ High available, distributed, automated mail archiving product.
 Tools: Hadoop, Kafka, HBase, Spring, Elasticsearch, MS Exhange; Angular JS.  
 Egemsoft, 2014
 
-**Large Numbers of Printing Order Web Application**  
-Tools: PHP, MySQL, Javascript, JQuery, Twitter Bootstrap - July 2013
