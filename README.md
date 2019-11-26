@@ -22,34 +22,30 @@
 ---
 
 ### Experience
-- Software Engineer / Designer, Inovatif Bilgi ve Enerji Tek.  
-  May 2015 - Current, *Frontend Dev., 2D/3D Graphics Dev.* . 
+- Software Engineer / Designer, Webcad.  
+  May 2015 - Current, *Frontend Dev., 2D/3D Graphics Dev.*  
 - Software Engineer, Egemsoft  
-  February 2014 - May 2015, *Big Data Search Engineer, Frontend Developer*
+  February 2014 - May 2015, *Frontend Dev., Big Data Search Tools*  
 - Software Engineer, Çamlıca Yayın  
-  July 2013 - February 2014
+  July 2013 - February 2014 *Full Stack Dev.*  
 - Freelance Web Developer  
   2013
-- Quality Assurance Professional, Turkcell, Application Operations  
+- Application Operations, Turkcell  
   June 2012 - September 2012
 - Web Developer, One World Istanbul Language Academy  
-  2011 - 2012
-- Web Developer, Istanbul Technical University - Chancery  
   2011 - 2012
 - Software Engineer Intern, MindFunction  
   May 2011 - October 2011
 
-### Education:
+### Education
 - MSc Applied Informatics, **Istanbul Technical University**
   July 2015 - Current
 - BSc Computer Engineering, **Istanbul Technical University**  
   September 2007 - June 2013, Degree: 2.75/4  
 - **Antalya A. Atilla Konuk Anatolian High School**  
   September 2003 - June 2007, Degree: 4.88/5  
-  
-### Foreign Languages
-- English  
 
+### Tech
 **Frontend**
 * HTML5 / CSS3
 * JavaScript, ES6+
@@ -81,8 +77,8 @@ Tools: JavaScript, GraphQL, React, Apollo, Material UI; with Prisma, graphql-yog
 Jun 2018
 
 **Anikutusu**  
-Custom photo-printing e-commerce web app frontend. Built with cutting edge JavaScript tech.  
-Tools [choo](https://github.com/yoshuawuyts/choo), ES2015 template literals, [bel](https://github.com/shama/bel)  
+Custom photo-printing e-commerce web app. Built with cutting edge JavaScript tech and Python/Django backend.  
+Tools [choo](https://github.com/yoshuawuyts/choo), ES2015 template literals, [bel](https://github.com/shama/bel); Python/Django, DRF, AWS, S3.  
 May 2017
 
 **pgfire**  
@@ -93,7 +89,7 @@ Jan 2017
 **ifplan - 2D/3D Planner, Graphics Editor**  
 High performance cross-device graphics editor, being built on cutting edge web technologies.  
 Tools: HTML5 Canvas, WebGL, EaselJS, BabylonJS, AngularJS (1.x), Gulp, ~~CoffeeScript~~, JavaScript, ~~Browserify~~, Parcel Bundler.  
-Inovatif, May 2015 - Current
+Webcad, May 2015 - Current
 
 **Esefpy - Egemsoft Python Framework**  
 Handcrafted reusable RESTful Python/Django modules with complimentary AngularJS clients.  
